@@ -47,6 +47,7 @@ h2 {
 	width: 100%;
 	overflow: hidden;
 	display: block;
+	position: relative;
 }
 #container-inner {
 	max-width: 880px;
